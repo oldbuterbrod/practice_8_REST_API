@@ -1,5 +1,5 @@
 # practice_8_REST_API ЭФМО-02-24 Сидоров Максим Максимович
-Создание простого REST API на Go с использование фреймворка Gin для работы с данными с книжным интернет-магазином.
+Создание простого REST API на Go с использование фреймворка Gin для работы с книжным интернет-магазином.
 ## GET (Получение всех товаров)
 ![image](https://github.com/user-attachments/assets/c13992b5-6edc-46a8-b8e0-893530f7efb1)
 ![image](https://github.com/user-attachments/assets/1358d3d1-4130-420c-a501-bd1fb4e727fe)
